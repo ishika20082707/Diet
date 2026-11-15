@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Bowl",
+  "description": "Fresh diet salad delivery, custom nutrition bowl builder, and monthly membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
